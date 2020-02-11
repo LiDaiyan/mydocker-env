@@ -42,3 +42,6 @@ cp -r /usr/local/go/src/github/xianlubird/mydocker/vendor/golang.org /usr/local/
 cp -r /usr/local/go/src/github/xianlubird/mydocker/vendor/github.com /usr/local/go/src/
 mv /usr/local/go/src/github/xianlubird /usr/local/go/src/github.com/
 rm -rf /usr/local/go/src/github
+
+#install docker by apt
+apt install docker.io
