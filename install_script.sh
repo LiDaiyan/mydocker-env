@@ -45,3 +45,5 @@ rm -rf /usr/local/go/src/github
 
 #install docker by apt
 apt install docker.io
+# install himma
+git clone https://github.com/abitfaith/himma.git
